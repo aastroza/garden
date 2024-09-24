@@ -8,6 +8,9 @@ authors = [
 dependencies = [
     "modal>=0.64.132",
     "outlines>=0.0.46",
+    "python-dotenv>=1.0.1",
+    "pyairports>=2.1.1",
+    "setuptools>=75.1.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
